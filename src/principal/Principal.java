@@ -1,6 +1,5 @@
 package principal;
 
-import modelo.Sudoku;
 import vista.FormSudoku;
 
 public class Principal {

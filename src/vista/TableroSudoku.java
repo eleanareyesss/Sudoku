@@ -318,6 +318,7 @@ public class TableroSudoku extends JPanel {
         }
 
     }
+    
     public void resolver(){
         sudoku.limpiarSudoku();
         for (int i = 0; i < listaTxt.length; i++) {
